@@ -4,12 +4,12 @@ html {
     padding: 0;
     margin: 0;
     font-family: verdana; 
+    font-weight: normal;
 }
 
 h1 {
     color: white;
     font-size: 50px;
-    font-weight: normal;
 }
 
 .download_container {
